@@ -154,13 +154,7 @@ nav ul li a:active{
     /* background-position-x:  */
 }
 
-.col.transform .image_roll {
-    position: absolute;
-    left: 0;
-    bottom: .5rem;
-    filter: drop-shadow(10px 20px 10px rgba(0, 0, 0, 0.342));
 
-}
 
 
 .col .text .text-head{
@@ -173,10 +167,7 @@ nav ul li a:active{
     grid-area: text;
 }
 
-.col.stand-out > .image_spicy {
-    filter: drop-shadow(-10px 20px 10px rgba(0, 0, 0, 0.342));
 
-}
 
 
 .service{
@@ -246,7 +237,7 @@ nav ul li a:active{
 }
 
 .carousel-container {
-    height: 400px;  
+    /* height: 400px;   */
     background-color: #fff;
 
 }
