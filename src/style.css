@@ -59,7 +59,7 @@ nav ul li a:active{
 }
 .banner{
     height: 650px;
-
+    width: 100%;
 
     background-color: #B0CE88;
     background-position: 0px 0px;
