@@ -148,7 +148,7 @@ nav ul li a:active{
 
 .col.transform{
     position: relative;
-    background-image: url(/images/image_roll.png);
+    background-image: url(../images/image_roll.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position-x:  */
@@ -167,7 +167,7 @@ nav ul li a:active{
     font-size: 2em;
 }
 .col.stand-out{
-    background-image: url(/images/image_spicy.png);
+    background-image: url(../images/image_spicy.png);
     background-repeat: no-repeat;
     background-size: cover;
     grid-area: text;
