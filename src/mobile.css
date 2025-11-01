@@ -24,11 +24,16 @@
     font-family: "Fraunces", serif;
     font-weight: 700;
     }
+
+    .company_name {
+        font-size: 1.5rem;
+    }
+
     .burger-menu{
         display: flex;
         flex-direction: column;
         position: absolute;
-        right: 100px;
+        right: 1rem;
         z-index: 99;
     }
     .line{
@@ -59,7 +64,7 @@
         background-position-x: center;
     }
     .col{
-        padding: 15px;
+        padding: 2rem;
     }
     .col .text{
         width: 100%;
