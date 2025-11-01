@@ -148,7 +148,7 @@ nav ul li a:active{
 
 .col.transform{
     position: relative;
-    background-color: #FFF58A;
+    background-image: url(/images/image_roll.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position-x:  */
@@ -167,7 +167,7 @@ nav ul li a:active{
     font-size: 2em;
 }
 .col.stand-out{
-    background-color:#F25912;
+    background-image: url(/images/image_spicy.png);
     background-repeat: no-repeat;
     background-size: cover;
     grid-area: text;
@@ -246,15 +246,13 @@ nav ul li a:active{
 }
 
 .carousel-container {
-    /* height: 500px;   */
+    height: 400px;  
     background-color: #fff;
 
 }
 
 .carousel-item > img {
     width: 100px;
-
-
   
 }
 
@@ -299,12 +297,13 @@ nav ul li a:active{
 }
 
 footer{
-    height: 200px;
-    background: rgb(156, 255, 255);
+    height: 300px;
+    background: #37353E;
     display: grid;
     place-items: center;
 }
 footer .footer{
+
     text-align: center;
     display: flex;
     flex-direction: column;
